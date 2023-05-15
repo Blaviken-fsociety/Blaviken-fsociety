@@ -33,6 +33,16 @@ I am a fourth-semester Systems Engineering student with a passion for coding and
 
 ### Here are some YouTube videos that you might find interesting:
 
+#### #1 | DEFINICIÓN DE HERENCIA Y POLIMORFISMO + EJEMPLO
+
 [![Alt text](https://img.youtube.com/vi/u1lRTpWqX0A/0.jpg)](https://www.youtube.com/watch?v=u1lRTpWqX0A)
+
+#### #2 | ESCRITURA, ALMACENAJE Y LECTURA DE DATOS EN ARCHIVOS DE TEXTO
+
+[![Alt text](https://img.youtube.com/vi/s8IR_KQB8qA/0.jpg)](https://www.youtube.com/watch?v=s8IR_KQB8qA)
+
+#### #3 | RÚBRICA - CORTE 3 || ULTIMO PUNTO
+
+[![Alt text](https://img.youtube.com/vi/Uu6LnB2P5fU/0.jpg)](https://www.youtube.com/watch?v=Uu6LnB2P5fU)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
