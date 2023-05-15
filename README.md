@@ -33,12 +33,5 @@ I am a fourth-semester Systems Engineering student with a passion for coding and
 
 ###Here are some YouTube videos that you might find interesting:
 
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-</div>
-</p>
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
