@@ -1,4 +1,4 @@
-![Banner eljulio_loco](C:\Users\julio\OneDrive\Imágenes)
+<img src="image/logo.png" alt="">
 
 # Hello, I'm Julio Arellano 👋
 
