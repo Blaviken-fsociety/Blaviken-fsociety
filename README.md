@@ -1,6 +1,4 @@
-<p style = 'text-align:center;'>
-<img src="https://studio.youtube.com/channel/UCadJz9xGZMG49ulV5vYCSqw/editing/images" width="300px">
-</p>
+![Banner eljulio_loco](C:\Users\julio\OneDrive\Imágenes)
 
 # Hello, I'm Julio Arellano 👋
 
