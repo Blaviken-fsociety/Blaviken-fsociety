@@ -1,4 +1,10 @@
-<img width=100% height="200" src="image/banner.jpeg" alt="">
+<pre>
+    d8888b. d88888b d888888b d888888b d88888b
+    88   8D 88     88       88    88     88  
+    88  .8D 88     88       88    88     88  
+    Y8888D  Y88888P d888888P d888888P Y88888P
+</pre>
+
 
 # Hello, I'm Julio Arellano 👋
 
