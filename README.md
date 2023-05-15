@@ -1,4 +1,8 @@
-<img src="image/banner.jpeg" alt="">
+<div>
+<p style = 'text-align:center;'>
+<img src="image/banner.jpeg" alt="banner" width="300px">
+</p>
+</div>
 
 # Hello, I'm Julio Arellano 👋
 
