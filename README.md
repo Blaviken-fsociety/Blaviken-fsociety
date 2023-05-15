@@ -1,16 +1,4 @@
----
-title: "Readme"
-author: "Julio Cesar Arellano Guerrero"
-date: "2023-05-15"
-output: html_document
----
-
-```{r setup, include=FALSE}
-library(vembedr)
-
-knitr::opts_chunk$set(echo = TRUE)
-```
-<pre>
+<pre id="miTexto">
                                 d88888b .D8888.  .d88b.   .o88b. d888888b d88888b d888888b dp    db
                                 88'     88'  YP .8P  Y8. d8P  Y8   '88'   88         88    '8b  d8'
                                 88ooo   '8bo.   88    88 8P         88    88ooooo    88     '8bd8'
@@ -18,7 +6,6 @@ knitr::opts_chunk$set(echo = TRUE)
                                 88      db   8D '8b  d8' Y8b  d8   .88.   88.        88       88
                                 YP      '8888Y'  'Y88P'   'Y88P' Y888888P Y88888P    YP       YP
 </pre>
-
 
 
 # Hello, I'm Julio Arellano 👋
@@ -46,10 +33,5 @@ I am a fourth-semester Systems Engineering student with a passion for coding and
 
 ###Here are some YouTube videos that you might find interesting:
 
-```{r}
-
-embed_youtube("Uu6LnB2P5fU")
-
-```
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
