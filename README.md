@@ -1,4 +1,4 @@
-<img src="image/banner.jpeg" alt="">
+<img class=".full-width-image" src="image/banner.jpeg" alt="">
 
 # Hello, I'm Julio Arellano 👋
 
