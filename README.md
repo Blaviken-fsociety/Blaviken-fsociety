@@ -1,10 +1,4 @@
-<style>
-    .full-width-image {
-        width: 100%;
-    }
-</style>
-
-![Banner](image/banner.jpeg){.full-width-image}
+<img src="image/banner.jpeg" alt="">
 
 # Hello, I'm Julio Arellano 👋
 
