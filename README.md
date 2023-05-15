@@ -33,5 +33,6 @@ I am a fourth-semester Systems Engineering student with a passion for coding and
 
 ###Here are some YouTube videos that you might find interesting:
 
+[![Alt text](https://img.youtube.com/vi/u1lRTpWqX0A/0.jpg)](https://www.youtube.com/watch?v=u1lRTpWqX0A)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
