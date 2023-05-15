@@ -1,4 +1,4 @@
-<img src="image/logo.png" alt="">
+<img src="image/BANNER.png" alt="">
 
 # Hello, I'm Julio Arellano 👋
 
