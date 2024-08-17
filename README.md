@@ -11,7 +11,7 @@
 # Hello, I'm Julio Arellano 👋
 
 ## About Me
-I am a fourth-semester Systems Engineering student with a passion for coding and problem-solving. I have experience in HTML, CSS, and Python, and I am eager to learn more about software development and other programming languages.
+I am a seventh semester Systems Engineering student with a passion for coding and problem-solving. I have experience in HTML, CSS, and Python, and I am eager to learn more about software development and other programming languages.
 
 ## Skills
 - Programming Languages: HTML, CSS, Python.
