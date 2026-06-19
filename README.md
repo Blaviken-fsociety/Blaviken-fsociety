@@ -11,7 +11,7 @@
 # Hello, I'm Julio Arellano 👋
 
 ## About Me
-I am a seventh semester Systems Engineering student with a passion for coding and problem-solving. I have experience in HTML, CSS, and Python, and I am eager to learn more about software development and other programming languages.
+I am a Systems Engineer with experience in IT support, Service Desk operations, and software development. I have worked with SQL, Power BI, CRM and ITSM platforms, and I have experience in incident management, troubleshooting, and process improvement. I am passionate about technology, problem solving, and continuous learning, and I am always looking for opportunities to develop innovative and efficient solutions.
 
 ## Skills
 - Programming Languages: HTML, CSS, Python.
